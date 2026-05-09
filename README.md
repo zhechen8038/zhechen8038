@@ -125,7 +125,7 @@
 
 如果你对我的项目、代码或研究方向感兴趣，欢迎交流。
 
-- GitHub: [https://github.com/zhenchen8038](https://github.com/zhenchen8038)
+- GitHub: [https://github.com/zhechen8038](https://github.com/zhechen8038)
 
 ---
 
